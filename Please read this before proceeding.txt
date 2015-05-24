@@ -1,0 +1,11 @@
+1) Design Document : 
+	This document contains all design diagrams. Database design diagram also present in this document under section '3.1 - Database Design Diagram'
+
+2) Configuration files are present in 'Configuration files' folder
+
+3)SQL dump is present in sqldump folder
+
+4) Final demo video is an extension of the happy path video. Please watch the haapy path video before watching the final demo video 
+
+
+
